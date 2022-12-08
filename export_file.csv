@@ -1,0 +1,24 @@
+date_id,date_ted,m_id
+0         ,December 2021            ,0         
+1         ,February 2022            ,1         
+2         ,September 2021           ,2         
+3         ,October 2021             ,3         
+4         ,October 2021             ,4         
+5         ,September 2021           ,5         
+6         ,September 2021           ,6         
+m_id,title,author
+0         ,Climate action needs new frontline leadership                              ,Ozawa Bineshi Albert                                                       
+1         ,The dark history of the overthrow of Hawaii                                ,Sydney Iaukea                                                              
+2         ,How play can spark new ideas for your business                             ,Martin Reeves                                                              
+3         ,Why is China appointing judges to combat..                                 ,James K. Thornton                                                          
+4         ,Cements carbon problem — and 2 ways to fix it                              ,Mahendra Singhi                                                            
+5         ,"Earths mysterious red glow, explained                                      ",Zoe Pierrat                                                                
+6         ,"What is MSG, and is it actually bad for you?                               ",Sarah E. Tracy                                                             
+v_l_id,views,likes,date_id
+0         ,404000,12000,0         
+1         ,214000,6400,1         
+2         ,412000,12000,2         
+3         ,427000,12000,3         
+4         ,2400,72,4         
+5         ,583000,17000,5         
+6         ,2100000,64000,6         
